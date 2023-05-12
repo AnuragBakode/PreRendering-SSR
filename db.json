@@ -1,0 +1,59 @@
+{
+    "events" : [
+        {
+            "id" : 1,
+            "title" : "Event 1",
+            "date" : "12 May",
+            "category" : "sports",
+            "description" : "Desc of id 1"
+        },
+        {
+            "id" : 2,
+            "title" : "Event 2",
+            "date" : "13 May",
+            "category" : "politics",
+            "description" : "Desc of id 2"
+        },
+        {
+            "id" : 3,
+            "title" : "Event 3",
+            "date" : "14 May",
+            "category" : "sports",
+            "description" : "Desc of id 3"
+        },
+        {
+            "id" : 4,
+            "title" : "Event 4",
+            "date" : "15 May",
+            "category" : "politics",
+            "description" : "Desc of id 4"
+        }
+    ],
+    "dashboard" : {
+        "posts" : 5,
+        "likes" : 100,
+        "followers" : 20,
+        "following" : 50
+    },
+
+    "news" : [
+        {
+            "id" : 1,
+            "title" : "News Article 1",
+            "description" : "Desc 1",
+            "category" : "sports"
+        },
+        {
+            "id" : 2,
+            "title" : "News Article 2",
+            "description" : "Desc 2",
+            "category" : "politics"
+        },
+        {
+            "id" : 3,
+            "title" : "News Article 3",
+            "description" : "Desc 3",
+            "category" : "sports"
+        }
+    ]
+}
